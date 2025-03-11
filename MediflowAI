@@ -1,0 +1,3 @@
+Type docs/README.md → GitHub will recognize this as a folder named docs
+Type prototype/README.md → This creates a prototype folder
+Repeat for ui-design/README.md
